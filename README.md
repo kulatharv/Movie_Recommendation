@@ -36,18 +36,18 @@ This project follows an Item-Based Collaborative Filtering approach:
 6. Recommendation Generation
          Recommend movies similar to a selected movie
 
-Technologies Used
-      Python
-      Pandas
-      NumPy
-      Jupyter Notebook
-      Collaborative Filtering
-      Correlation Analysis
+- Technologies Used
+      - Python
+      - Pandas
+      - NumPy
+      - Jupyter Notebook
+      - Collaborative Filtering
+      - Correlation Analysis
 
-Results
-      Successfully generated relevant movie recommendations
-      Improved recommendation accuracy by filtering low-rated movies
-      Demonstrated strong correlation between similar genre movies.
+- Results
+      - Successfully generated relevant movie recommendations
+      - Improved recommendation accuracy by filtering low-rated movies
+      - Demonstrated strong correlation between similar genre movies.
 
-Conclusion
-      This project demonstrates the effective use of collaborative            filtering to build a recommendation system using Python.
+- Conclusion
+      - This project demonstrates the effective use of collaborative filtering to build a recommendation system using Python.
